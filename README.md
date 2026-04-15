@@ -15,20 +15,27 @@ Building automation tools, SaaS products and scalable solutions.
 
 ### Projects
 
-**[lockbase.io](https://lockbase.io)**  
-Secure access management and system architecture  
+<p align="center">
+  <a href="https://lockbase.io">
+    <img src="https://image.thum.io/get/width/800/https://lockbase.io" width="260"/>
+  </a>
+  <a href="https://visionarioflix.com">
+    <img src="https://image.thum.io/get/width/800/https://visionarioflix.com" width="260"/>
+  </a>
+  <a href="https://mailfunnels.io">
+    <img src="https://image.thum.io/get/width/800/https://mailfunnels.io" width="260"/>
+  </a>
+</p>
 
-**[visionarioflix.com](https://visionarioflix.com)**  
-Streaming platform with optimized content delivery  
-
-**[mailfunnels.io](https://mailfunnels.io)**  
-Email automation and funnel infrastructure  
+<p align="center">
+  <sub>lockbase.io • visionarioflix.com • mailfunnels.io</sub>
+</p>
 
 <br/>
 
 ### Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,vscode" />
 </p>
 
@@ -36,6 +43,6 @@ Email automation and funnel infrastructure
 
 ### Stats
 
-<p>
+<p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=gwyntdev&show_icons=true&theme=transparent&hide_border=true" />
 </p>
