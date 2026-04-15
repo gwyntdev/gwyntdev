@@ -1,79 +1,80 @@
 <h1 align="center">Gwyn</h1>
 
 <p align="center">
-  Software Engineer • Systems • Automation • SaaS
+  <strong>Software Engineer</strong><br/>
+  Systems • Automation • Scalable Infrastructure
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend-black?style=flat&logo=server" />
-  <img src="https://img.shields.io/badge/Automation-Systems-black?style=flat&logo=zap" />
-  <img src="https://img.shields.io/badge/Architecture-Scalable-black?style=flat&logo=code" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=2"/>
 </p>
 
-<br/>
+---
 
-### About
-
-I design and build scalable systems, automation pipelines and SaaS products.  
-Focused on performance, clean architecture and real-world applications.
-
-<br/>
-
-### Selected Projects
+### Selected Work
 
 <p align="center">
   <a href="https://lockbase.io">
-    <img src="https://image.thum.io/get/width/800/https://lockbase.io" width="270"/>
+    <img src="https://image.thum.io/get/width/900/https://lockbase.io" width="280"/>
   </a>
   <a href="https://visionarioflix.com">
-    <img src="https://image.thum.io/get/width/800/https://visionarioflix.com" width="270"/>
+    <img src="https://image.thum.io/get/width/900/https://visionarioflix.com" width="280"/>
   </a>
   <a href="https://mailfunnels.io">
-    <img src="https://image.thum.io/get/width/800/https://mailfunnels.io" width="270"/>
+    <img src="https://image.thum.io/get/width/900/https://mailfunnels.io" width="280"/>
   </a>
 </p>
 
 <p align="center">
   <sub>
-    lockbase.io — secure access • 
+    lockbase — secure systems • 
     visionarioflix — streaming infra • 
-    mailfunnels — email automation
+    mailfunnels — automation engine
   </sub>
 </p>
 
-<br/>
+---
 
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,docker,postgres,redis,git,github,vscode" />
-</p>
-
-<br/>
-
-### What I Work With
+### Architecture & Focus
 
 <p align="center">
-  ⚙️ Backend Systems & APIs  
-  🤖 Automation & Bots  
-  ☁️ Scalable Infrastructure  
-  📦 SaaS Products  
+  backend systems • distributed services • automation pipelines • saas engineering
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:0f0f0f&height=2"/>
+</p>
 
-### GitHub Metrics
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,docker,postgres,redis,git,github" />
+</p>
+
+---
+
+### Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gwyntdev&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+---
+
+### Metrics
 
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=gwyntdev&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
-<br/>
+---
 
 ### Contact
 
 <p align="center">
   <a href="https://github.com/gwyntdev">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-0f0f0f?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
