@@ -8,8 +8,8 @@
 
 ### About
 
-Developer focused on performance, clean architecture and system design.  
-Building automation tools, SaaS products and scalable solutions.
+Software engineer focused on performance, clean architecture and system design.  
+I build automation tools, SaaS products and scalable infrastructures.
 
 <br/>
 
@@ -36,7 +36,15 @@ Building automation tools, SaaS products and scalable solutions.
 ### Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,ts,docker,postgres,git,github,vscode" />
+</p>
+
+<br/>
+
+### Focus
+
+<p align="center">
+  Backend • Automation • SaaS • System Design
 </p>
 
 <br/>
@@ -45,4 +53,12 @@ Building automation tools, SaaS products and scalable solutions.
 
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=gwyntdev&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<br/>
+
+### Contact
+
+<p align="center">
+  <a href="https://github.com/gwyntdev">GitHub</a>
 </p>
