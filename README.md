@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://lockbase.io">
-    <img src="./assets/lockbase.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/gwyntdev/gwyntdev/main/lockbase.png" width="300"/>
   </a>
 </p>
 <p align="center">
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://visionarioflix.com">
-    <img src="./assets/visionarioflix.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/gwyntdev/gwyntdev/main/visionarioflix.png" width="300"/>
   </a>
 </p>
 <p align="center">
@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://mailfunnels.io">
-    <img src="./assets/mailfunnels.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/gwyntdev/gwyntdev/main/mailfunnels.png" width="300"/>
   </a>
 </p>
 <p align="center">
