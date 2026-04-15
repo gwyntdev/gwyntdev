@@ -1,55 +1,68 @@
 <h1 align="center">Gwyn</h1>
 
 <p align="center">
-  Software Engineer building scalable systems and digital products
+  Software Engineer • Systems • Automation • SaaS
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend-black?style=flat&logo=server" />
+  <img src="https://img.shields.io/badge/Automation-Systems-black?style=flat&logo=zap" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable-black?style=flat&logo=code" />
 </p>
 
 <br/>
 
 ### About
 
-Software engineer focused on performance, clean architecture and system design.  
-I build automation tools, SaaS products and scalable infrastructures.
+I design and build scalable systems, automation pipelines and SaaS products.  
+Focused on performance, clean architecture and real-world applications.
 
 <br/>
 
-### Projects
+### Selected Projects
 
 <p align="center">
   <a href="https://lockbase.io">
-    <img src="https://image.thum.io/get/width/800/https://lockbase.io" width="260"/>
+    <img src="https://image.thum.io/get/width/800/https://lockbase.io" width="270"/>
   </a>
   <a href="https://visionarioflix.com">
-    <img src="https://image.thum.io/get/width/800/https://visionarioflix.com" width="260"/>
+    <img src="https://image.thum.io/get/width/800/https://visionarioflix.com" width="270"/>
   </a>
   <a href="https://mailfunnels.io">
-    <img src="https://image.thum.io/get/width/800/https://mailfunnels.io" width="260"/>
+    <img src="https://image.thum.io/get/width/800/https://mailfunnels.io" width="270"/>
   </a>
 </p>
 
 <p align="center">
-  <sub>lockbase.io • visionarioflix.com • mailfunnels.io</sub>
+  <sub>
+    lockbase.io — secure access • 
+    visionarioflix — streaming infra • 
+    mailfunnels — email automation
+  </sub>
 </p>
 
 <br/>
 
-### Stack
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,nodejs,ts,docker,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,docker,postgres,redis,git,github,vscode" />
 </p>
 
 <br/>
 
-### Focus
+### What I Work With
 
 <p align="center">
-  Backend • Automation • SaaS • System Design
+  ⚙️ Backend Systems & APIs  
+  🤖 Automation & Bots  
+  ☁️ Scalable Infrastructure  
+  📦 SaaS Products  
 </p>
 
 <br/>
 
-### Stats
+### GitHub Metrics
 
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=gwyntdev&show_icons=true&theme=transparent&hide_border=true" />
@@ -60,5 +73,7 @@ I build automation tools, SaaS products and scalable infrastructures.
 ### Contact
 
 <p align="center">
-  <a href="https://github.com/gwyntdev">GitHub</a>
+  <a href="https://github.com/gwyntdev">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
