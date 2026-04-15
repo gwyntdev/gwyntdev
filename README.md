@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Gwyn</h1>
 
-<!--
-**gwyntdev/gwyntdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Developer building scalable systems & digital products.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ About Me
+- 💻 Focused on performance, clean architecture and scalability  
+- 🚀 Building systems, automation and SaaS products  
+- 📚 Constant evolution and learning mindset  
+
+---
+
+### 🧠 Projects
+- 🔐 [lockbase.io](https://lockbase.io)  
+  Secure access management and system architecture  
+
+- 🎬 [visionarioflix.com](https://visionarioflix.com)  
+  Streaming platform with optimized content delivery  
+
+- 📩 [mailfunnels.io](https://mailfunnels.io)  
+  Email automation and funnel infrastructure  
+
+---
+
+### 🛠 Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,git,github,vscode" />
+</p>
+
+---
+
+### 📊 Stats
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gwynntfx-design&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwynntfx-design&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+### 📫 Contact
+- GitHub: https://github.com/gwynntfx-design
