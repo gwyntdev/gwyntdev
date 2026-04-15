@@ -1,8 +1,7 @@
 <h1 align="center">Gwyn</h1>
 
 <p align="center">
-  <strong>Software Engineer</strong><br/>
-  Systems • Automation • Scalable Infrastructure
+  Software Engineer • Systems • Automation • Scalable Infrastructure
 </p>
 
 <p align="center">
@@ -15,22 +14,33 @@
 
 <p align="center">
   <a href="https://lockbase.io">
-    <img src="https://image.thum.io/get/width/900/https://lockbase.io" width="280"/>
-  </a>
-  <a href="https://visionarioflix.com">
-    <img src="https://image.thum.io/get/width/900/https://visionarioflix.com" width="280"/>
-  </a>
-  <a href="https://mailfunnels.io">
-    <img src="https://image.thum.io/get/width/900/https://mailfunnels.io" width="280"/>
+    <img src="./assets/lockbase.png" width="300"/>
   </a>
 </p>
+<p align="center">
+  <sub><b>LOCKBASE</b> — secure access & system architecture</sub>
+</p>
+
+<br/>
 
 <p align="center">
-  <sub>
-    lockbase — secure systems • 
-    visionarioflix — streaming infra • 
-    mailfunnels — automation engine
-  </sub>
+  <a href="https://visionarioflix.com">
+    <img src="./assets/visionarioflix.png" width="300"/>
+  </a>
+</p>
+<p align="center">
+  <sub><b>VISIONARIOFLIX</b> — streaming platform infrastructure</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://mailfunnels.io">
+    <img src="./assets/mailfunnels.png" width="300"/>
+  </a>
+</p>
+<p align="center">
+  <sub><b>MAILFUNNELS</b> — email automation engine</sub>
 </p>
 
 ---
@@ -38,7 +48,7 @@
 ### Architecture & Focus
 
 <p align="center">
-  backend systems • distributed services • automation pipelines • saas engineering
+  backend systems • automation • distributed services • saas engineering
 </p>
 
 <p align="center">
